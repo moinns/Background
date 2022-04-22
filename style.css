@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 html {
   margin: auto;
   max-width: 1440px;
@@ -13,6 +14,7 @@ body {
   justify-content: center;
   flex-direction: column;
 }
+
 .bg_scroll {
   width: 100%;
   height: 600px;
